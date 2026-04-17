@@ -4,7 +4,7 @@ A citizen-facing AI tool that answers questions about Greek law in plain Greek. 
 
 **Ask:** *"Μπορεί ο εργοδότης να με απολύσει χωρίς αποζημίωση;"* — get a cited answer in seconds.
 
-![UI](https://i.imgur.com/placeholder.png)
+**[Live Demo →](https://theokalogr-bit.github.io/greek-legal-rag)** *(UI preview — backend not running)*
 
 ---
 
