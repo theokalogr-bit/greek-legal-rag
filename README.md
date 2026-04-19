@@ -98,3 +98,13 @@ Official sources: [et.gr](https://search.et.gr/en/) · [e-nomothesia.gr](https:/
 | Frontend | React · Vite · Tailwind CSS |
 | Fonts | Fraunces · DM Sans |
 | Storage | JSON flat file — no database needed |
+
+## Use Cases
+
+- **Law firms** — let staff query legislation in seconds instead of manually searching through PDFs and official gazettes
+- **HR departments** — instant answers on labor law (dismissal rights, overtime, notice periods) without waiting for legal counsel
+- **Accounting and tax firms** — searchable access to AADE regulations and tax law for client questions
+- **Insurance companies** — query consumer protection law and liability regulations for claims assessment
+- **Businesses operating in Greece** — understand legal obligations around employment, consumer rights, and corporate compliance
+
+The system can be extended with any Greek law PDF — court decisions, sector-specific regulations, ministry circulars.
