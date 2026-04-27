@@ -8,6 +8,11 @@ A citizen-facing AI tool that answers questions about Greek law in plain Greek. 
 
 ---
 
+
+## Demo
+
+> Demo GIF coming soon — or try the **[Live Demo](https://theokalogr-bit.github.io/greek-legal-rag)** *(UI preview — backend not running)*
+
 ## What It Does
 
 - Answers legal questions in Greek or English
